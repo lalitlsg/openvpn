@@ -1,0 +1,11 @@
+# openvpn
+Custom scripts for user authentication in openvpn
+
+How to write custom scripts for user authentication via openvpn server for your organization ?
+
+In this,
+
+If you want to write your own logic to authenticate user of your organization using openvpn server , 
+then mail me at lalit.garghate@gmail.com.
+
+We basically write those script using shell scripts and python scripts.
